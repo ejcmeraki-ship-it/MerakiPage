@@ -38,7 +38,7 @@ const translations = {
     "accessibility.highContrastOnLabel": "Desactivar modo de alto contraste",
     "hero.kicker": "Soluciones legales y contables a medida",
     "hero.title": "Estudio Meraki",
-    "hero.lead": "Acompañamos a personas, familias y empresas con una mirada integral. Nos enfocamos en la escucha activa, el análisis preciso y la creación de estrategias que generen confianza a largo plazo.",
+    "hero.lead": "Acompañamos a empresas, emprendedores, pymes y particulares brindando asesoraimiento integral y cercano.",
     "hero.primaryCta": "Conocé nuestros servicios",
     "hero.secondaryCta": "Reservá una reunión",
     "hero.metric1Value": "+12 años",
