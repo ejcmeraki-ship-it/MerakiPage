@@ -274,7 +274,7 @@ const translations = {
     "accessibility.highContrastOnLabel": "Disable high contrast mode",
     "hero.kicker": "Tailored legal and accounting solutions",
     "hero.title": "Meraki Firm",
-    "hero.lead": "We support individuals, families, and companies with an integral approach. We focus on active listening, precise analysis, and crafting strategies that build long-term trust.",
+    "hero.lead": "We support companies, entrepreneurs, pymes, and individuals by providing comprehensive and personalized advice.",
     "hero.primaryCta": "Explore our services",
     "hero.secondaryCta": "Book a meeting",
     "hero.metric1Value": "+12 years",
